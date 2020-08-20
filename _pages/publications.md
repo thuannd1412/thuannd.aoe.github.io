@@ -12,19 +12,19 @@ Journal papers:
 
 3. Thuan Nguyen, Duong Nguyen and Thinh Nguyen. Achievable Rate Regions Using Novel Location Assisted Coding (LAC). In IET Communications. Submitted. [Paper](https://arxiv.org/pdf/1702.01198.pdf)
 
-4. Thuan Nguyen and Thinh Nguyen. Minimizing Weighted Concave Impurity Partition under Constraints. In Transactions on Communications. Submitted.
+4. Thuan Nguyen and Thinh Nguyen. Minimizing Weighted Concave Impurity Partition under Constraints. In Transactions on Communications. Submitted. [Paper](https://drive.google.com/drive/folders/18khjYo4NYscFHgJYC57gAU9r-lG_2Pxf?usp=sharing)
 
-5. Thuan Nguyen and Thinh Nguyen. Capacity Achieving Quantizer Design for Binary Channels. In Communications Letters. Submitted.
+5. Thuan Nguyen and Thinh Nguyen. Capacity Achieving Quantizer Design for Binary Channels. In Communications Letters. Submitted. [Paper](https://drive.google.com/drive/folders/13RR16r3J4OTKPfTQzwJfM_hLqCqrrmHu?usp=sharing)
 
-6. Thuan Nguyen and Thinh Nguyen. Structure of Optimal Quantizer Maximizing Mutual Information for Continuous-Output Channels under Quantized-Output Constraints. Preprint.
+6. Thuan Nguyen and Thinh Nguyen. Structure of Optimal Quantizer Maximizing Mutual Information for Continuous-Output Channels under Quantized-Output Constraints. Preprint. [Paper](https://drive.google.com/drive/folders/1uXKSYUutwTCSphMCjsK3GFuG0l50CZew?usp=sharing)
 
-7. Thuan Nguyen, Hoang Le and Thinh Nguyen. Approximation Impurity Partitions Via Maximum Likelihood. Preprint.
+7. Thuan Nguyen, Hoang Le and Thinh Nguyen. Approximation Impurity Partitions Via Maximum Likelihood. Preprint. [Paper](https://drive.google.com/drive/folders/1Gwr8bWtK9RHhEJiVhW9qU-o0Iklbq7Tv?usp=sharing)
 
 Conference papers:
 
-1. Thuan Nguyen, Hoang Le and Thinh Nguyen. Bounded Guaranteed Linear Time Algorithm for Concave Impurity Minimization Via Maximum Likelihood. In Conference on Neural Information Processing Systems, NIPS 2020. Submitted.
+1. Thuan Nguyen, Hoang Le and Thinh Nguyen. Bounded Guaranteed Linear Time Algorithm for Concave Impurity Minimization Via Maximum Likelihood. In Conference on Neural Information Processing Systems, NIPS 2020. Submitted. [Paper](https://drive.google.com/drive/folders/1lzBVe4Invh18MKbYiQB3hy6yhikrk2h1?usp=sharing)
 
-2. Thuan Nguyen and Thinh Nguyen. Communication-Channel Optimized Impurity Partition. In Global Communications Conference, GLOBECOM 2020. Accepted.
+2. Thuan Nguyen and Thinh Nguyen. Communication-Channel Optimized Impurity Partition. In Global Communications Conference, GLOBECOM 2020. Accepted. [Paper](https://arxiv.org/pdf/2001.01708.pdf)
 
 3. Thuan Nguyen and Thinh Nguyen. Structure of Optimal Quantizer for Binary-Input Continuous-Output Channels with Output Constraints. In International Symposium on Information Theory, ISIT 2020. Accepted. [Paper](https://web.engr.oregonstate.edu/~thinhq/papers/conference/ISIT_binary_output_constraint_consecutive_region_dynamic_thinh.pdf)
 
