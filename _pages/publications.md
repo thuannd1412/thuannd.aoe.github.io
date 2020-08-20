@@ -44,13 +44,3 @@ Conference papers:
 
 11. Thuan Nguyen, Duong Nguyen and Thinh Nguyen. On Achievable Rate Region Using Location Assisted Coding (LAC) for FSO Communication. In Vehicular Technology Conference, VTC-Fall 2017. Accepted. [Paper](https://ieeexplore.ieee.org/abstract/document/8287993)
 
-
-{% if author.googlescholar %}
-  You can also find my articles on [Thuan Nguyen Duc](https://scholar.google.com/citations?user=oyq0uo0AAAAJ&hl=en)
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
