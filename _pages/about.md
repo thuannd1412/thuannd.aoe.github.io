@@ -27,6 +27,6 @@ News!
 
 * 05/21/2020: Our paper "On Bounds and Closed Form Expressions for Capacities of Discrete Memoryless Channels with Invertible Positive Matrices" is published at IEEE Transactions on Vehicular Technology.
 
-* 05/12/2020: Wellcome you to this world - my second princess. Love you so much!
+* 05/12/2020: Finally, I met you. Wellcome you to this world - my second princess. Love you so much!
 
 * 03/31/2020: Our paper "Structure of Optimal Quantizer for Binary-Input Continuous-Output Channels with Output Constraints" is accepted at 2020 IEEE International Symposium on Information Theory (ISIT).
