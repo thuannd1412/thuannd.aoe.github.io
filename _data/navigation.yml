@@ -1,13 +1,15 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/2015-10-01-paper-title-number-3.md/
+    url: /publications/
+    #2015-10-01-paper-title-number-3.md/
 
   #- title: "Talks"
    # url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/2014-spring-teaching-1.md/    
+    url: /teaching/
+    #2014-spring-teaching-1.md/    
     
   #- title: "Portfolio"
    # url: /portfolio/
