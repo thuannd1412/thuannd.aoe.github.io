@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/2015-10-01-paper-title-number-3.md
+permalink: /publications/2015-10-01-paper-title-number-3.md/
 author_profile: true
 ---
 Journal papers:
